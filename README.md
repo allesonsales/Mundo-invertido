@@ -1,6 +1,6 @@
 # Desafio de Projeto MUndo Invertido da DIO
 
-![Site mundo Invertido](./assets/images/screenshot)
+![Site mundo Invertido](./assets/images/screenshot.png)
 
 ## Desafio! 👋
 
